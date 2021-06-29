@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622214297 source:d:\4st semester\operating system os\task os\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1622214216 source:d:\4st semester\operating system os\task os\main2.c
+	<stdio.h>
+
